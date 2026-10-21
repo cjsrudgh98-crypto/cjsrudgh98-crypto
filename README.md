@@ -5,7 +5,7 @@
 **실제로 운영할 수 있는 서비스를 끝까지 만드는 백엔드 중심 풀스택 개발자**
 
 <a href="mailto:cjsrudgh98@gmail.com"><img src="https://img.shields.io/badge/Gmail-cjsrudgh98@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<img src="https://komarev.com/ghpvc/?username=cjsrudgh98-crypto&style=flat-square&color=e0207f&label=VIEWS" alt="profile views" />
+
 
 </div>
 
