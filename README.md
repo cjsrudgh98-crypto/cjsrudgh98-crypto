@@ -118,12 +118,12 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/cjsrudgh98-crypto/-MUSIC-main2/raw/main/docs/portfolio/StreamWave-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-e0207f?style=for-the-badge" /></a>
-      <a href="https://github.com/cjsrudgh98-crypto/-MUSIC-main2/blob/main/docs/demo/StreamWave-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
+      <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/-MUSIC-main2@main/docs/portfolio/StreamWave-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-e0207f?style=for-the-badge" /></a>
+      <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/-MUSIC-main2@main/docs/demo/StreamWave-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/cjsrudgh98-crypto/CleanEat/raw/main/docs/portfolio/CleanEat-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-16a36a?style=for-the-badge" /></a>
-      <a href="https://github.com/cjsrudgh98-crypto/CleanEat/blob/main/docs/demo/CleanEat-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
+      <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/CleanEat@main/docs/portfolio/CleanEat-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-16a36a?style=for-the-badge" /></a>
+      <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/CleanEat@main/docs/demo/CleanEat-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
