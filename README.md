@@ -137,6 +137,7 @@
       <ul>
         <li>칸반 보드 · 상태 이력 · 자기소개서 버전 관리와 지원 시 제출본 고정</li>
         <li>URL 자동 추출(파서 체인 · SSRF 방어) + 크롬 확장 프로그램(MV3, 최소 권한)</li>
+        <li>추측으로 만든 사람인 · 잡코리아 파서를 실제 공고로 검증 · 수정 (잡코리아 6개 항목 전부, 사람인 회사 · 제목 · 마감일 · 경력/학력)</li>
         <li>"도달한 단계" 기준 통계 · 마감 알림 메일 · iCal 캘린더 구독</li>
         <li>Testcontainers PostgreSQL · Playwright E2E · GitHub Actions CI/CD · 배포 롤백 · 백업 복구 리허설</li>
       </ul>
