@@ -41,6 +41,7 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -68,6 +69,7 @@
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Toss%20Payments-0064FF?style=flat-square&logo=toss&logoColor=white" />
     </td>
   </tr>
@@ -124,6 +126,31 @@
     <td align="center">
       <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/CleanEat@main/docs/portfolio/CleanEat-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-16a36a?style=for-the-badge" /></a>
       <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/CleanEat@main/docs/demo/CleanEat-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📋 <a href="https://github.com/cjsrudgh98-crypto/HireTrack">HireTrack</a></h3>
+      <p align="center"><sub>개인 프로젝트 · 1인 풀스택</sub></p>
+      <p align="center"><a href="https://github.com/cjsrudgh98-crypto/HireTrack"><img src="https://raw.githubusercontent.com/cjsrudgh98-crypto/HireTrack/main/docs/demo/HireTrack-demo.gif" width="640" alt="HireTrack 시연" /></a></p>
+      <p align="center">흩어진 채용 공고·지원 현황·자기소개서를 한곳에 모으고, <b>"나는 어느 단계에서 떨어지는지"</b>를 숫자로 보여주는 지원 관리 트래커</p>
+      <ul>
+        <li>칸반 보드 · 상태 이력 · 자기소개서 버전 관리와 지원 시 제출본 고정</li>
+        <li>URL 자동 추출(파서 체인 · SSRF 방어) + 크롬 확장 프로그램(MV3, 최소 권한)</li>
+        <li>"도달한 단계" 기준 통계 · 마감 알림 메일 · iCal 캘린더 구독</li>
+        <li>Testcontainers PostgreSQL · Playwright E2E · GitHub Actions CI/CD · 배포 롤백 · 백업 복구 리허설</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java%2025-007396?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot%204-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%20%2B%20TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/HireTrack@main/docs/portfolio/HireTrack-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-3758f9?style=for-the-badge" /></a>
+        <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/HireTrack@main/docs/demo/HireTrack-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
+      </p>
     </td>
   </tr>
 </table>
