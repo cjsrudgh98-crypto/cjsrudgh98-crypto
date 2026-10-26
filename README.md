@@ -160,6 +160,7 @@
 ## 🌱 Currently
 
 - 🎧 **StreamWave** 운영 배포 (AWS EC2 · Docker Compose · Caddy HTTPS)
+- 📋 **HireTrack** 운영 배포 준비 (Docker Compose · Nginx HTTPS · GitHub Actions 자동 배포 · 롤백) · 크롬 웹 스토어 등록
 - 📚 대용량 트래픽과 실시간 처리를 위한 캐싱 · 메시징 구조 학습
 
 ---
