@@ -90,7 +90,7 @@
         <li>OBS → SRS(RTMP/HLS) 라이브 + STOMP 실시간 채팅 · 투표</li>
         <li>최근 24시간 청취 기반 실시간 TOP 100 (Redis)</li>
         <li>이용권 등급제 · 서버 측 기능별 권한 판정</li>
-        <li>Docker Compose + Caddy 자동 HTTPS 배포</li>
+        <li>AWS EC2 · Docker Compose · Caddy 자동 HTTPS 운영 배포</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Java%2025-007396?style=flat-square&logo=openjdk&logoColor=white" />
@@ -108,7 +108,7 @@
         <li>바코드 스캔 → 알레르기 경고 · 대안 제품 추천</li>
         <li>토스 결제 금액 검증 · 멱등 키로 중복 결제 방지</li>
         <li>상품 단위 부분 취소 · 반품 금액 정합성</li>
-        <li>관리자 매출 통계 · GitHub Actions CI</li>
+        <li>관리자 매출 통계 · GitHub Actions CI · AWS EC2 운영 배포</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white" />
@@ -120,10 +120,12 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://15-165-125-223.sslip.io"><img src="https://img.shields.io/badge/🌐_배포_사이트-1F88C0?style=for-the-badge" /></a>
       <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/-MUSIC-main2@main/docs/portfolio/StreamWave-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-e0207f?style=for-the-badge" /></a>
       <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/-MUSIC-main2@main/docs/demo/StreamWave-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
     </td>
     <td align="center">
+      <a href="https://3-39-171-221.sslip.io"><img src="https://img.shields.io/badge/🌐_배포_사이트-2563eb?style=for-the-badge" /></a>
       <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/CleanEat@main/docs/portfolio/CleanEat-portfolio.pdf"><img src="https://img.shields.io/badge/📄_포트폴리오_PDF-16a36a?style=for-the-badge" /></a>
       <a href="https://cdn.jsdelivr.net/gh/cjsrudgh98-crypto/CleanEat@main/docs/demo/CleanEat-demo.mp4"><img src="https://img.shields.io/badge/▶_시연_영상-111827?style=for-the-badge" /></a>
     </td>
@@ -160,7 +162,7 @@
 
 ## 🌱 Currently
 
-- 🎧 **StreamWave** 운영 배포 (AWS EC2 · Docker Compose · Caddy HTTPS)
+- 🎧 **StreamWave** · 🥗 **CleanEat** AWS EC2 운영 중 (Docker Compose · Caddy HTTPS)
 - 📋 **HireTrack** 운영 배포 준비 (Docker Compose · Nginx HTTPS · GitHub Actions 자동 배포 · 롤백) · 크롬 웹 스토어 등록
 - 📚 대용량 트래픽과 실시간 처리를 위한 캐싱 · 메시징 구조 학습
 
